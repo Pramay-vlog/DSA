@@ -80,12 +80,12 @@
         }
     }
 
-# 3. Stacks LIFO
+# 3. Stacks LIFO (bundle of plates one upon another)
     - Pipe of tennis balls.
     - Push and Pop, using Linked list.
     - Top (head in linked list) element in stack.
 
-# 4. Queue FIFO
+# 4. Queue FIFO (line of people)
     - Push to one side and Pop from other end.
     - Enqueue (push element to last)
     - Dequeue (remove element from first)
