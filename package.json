@@ -1,0 +1,12 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "dev": "node ./code.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
